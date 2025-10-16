@@ -6,7 +6,9 @@ https://www.reddit.com/r/slaythespire/comments/1jczl7v/ive_learned_how_the_sts_m
 
 使用 python 粗糙的模擬殺戮尖塔的地圖生成
 
-範例:
+圖例: M = 普怪, E = 菁英怪, ? = 事件, S = 商店, R = 營火, T = 寶箱
+
+生成範例:
 ```
    
 15  R  R     R  R       

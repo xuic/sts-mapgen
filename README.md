@@ -4,7 +4,7 @@
 https://www.reddit.com/r/slaythespire/comments/ndqweh/i_have_reverseengineered_map_generation_algorithm/
 https://www.reddit.com/r/slaythespire/comments/1jczl7v/ive_learned_how_the_sts_map_generation_works/
 
-使用 python 粗糙的模擬殺戮尖塔的地圖生成
+使用 python 粗糙的模擬殺戮尖塔的地圖生成 (之所以粗糙是因為我的實作方式會讓地圖生成左右不平衡)
 
 圖例: M = 普怪, E = 菁英怪, ? = 事件, S = 商店, R = 營火, T = 寶箱
 
